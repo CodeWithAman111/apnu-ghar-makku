@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5b531ac1.css",
-    "main.js": "/static/js/main.71ba5c45.js",
+    "main.js": "/static/js/main.28293d84.js",
     "static/media/Triyuginarayan_Temple.jpg": "/static/media/Triyuginarayan_Temple.3fb10aeeff03170ff88e.jpg",
     "static/media/room3-3.jpg": "/static/media/room3-3.9237ca06d5e3b937af24.jpg",
     "static/media/room3-2.jpg": "/static/media/room3-2.a53499409512c41fc354.jpg",
@@ -36,10 +36,10 @@
     "static/media/room1-6.jpg": "/static/media/room1-6.1b1895e20de1d29957b2.jpg",
     "index.html": "/index.html",
     "main.5b531ac1.css.map": "/static/css/main.5b531ac1.css.map",
-    "main.71ba5c45.js.map": "/static/js/main.71ba5c45.js.map"
+    "main.28293d84.js.map": "/static/js/main.28293d84.js.map"
   },
   "entrypoints": [
     "static/css/main.5b531ac1.css",
-    "static/js/main.71ba5c45.js"
+    "static/js/main.28293d84.js"
   ]
 }
